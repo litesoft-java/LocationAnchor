@@ -1,1 +1,4 @@
 jar: LocationAnchor
+
+resources: 
+- LICENSE
